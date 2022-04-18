@@ -11,5 +11,5 @@ Create a website that allows a user to generate a random password based on user 
     - Option to include numbers
     - Option to include special characters
 
-
+Once the user proceeds through the prompts presenting the password criteria a password will be generated. Clicking the "generate password" button again will generate a new pass with the criteria previously selected
 
